@@ -2,6 +2,7 @@
 Alfread Workflow for instantly converting unixtime into human readable format.
 
 <img src="./UnixtimeConverter.gif" alt="UnixtimeConverter "title="UnixtimeConverter">
+![UnixtimeConverter](UnixtimeConverter.gif "UnixtimeConverter")
 
 1. install Alfred Workfowa
 https://www.alfredapp.com/workflows/
