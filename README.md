@@ -3,7 +3,7 @@ Alfread Workflow for instantly converting unixtime into human readable format.
 
 ![UnixtimeConverter](UnixtimeConverter.gif "UnixtimeConverter")
 
-1. install Alfred Workfowa
+1. install Alfred Workflow
 https://www.alfredapp.com/workflows/
 
 1. git clone this repository 
@@ -15,4 +15,5 @@ For example, type 'utime 123456789' and you will find human-readble formatted ti
 
 
 
- 
+## License
+MIT
